@@ -1,30 +1,25 @@
-# This is a large heading
+# Ansuman Choudhury
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Berhampur, in the state of Odisha, in India.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my hobbies are:
 
-Here is `some code` in the middle of a sentence.
+- Watching *Anime* 
+- Watching *TV Series* and *Movies*
+- Playing *Games*
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about three things that will happen in my future:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Being an AWS Specialist.
+2. Gaining more experience in programming.
+3. Making my family proud.
 
+### Contact
 
+The best way to get in touch with me is [on Twitter](https://twitter.com/i_am_ansuman).
